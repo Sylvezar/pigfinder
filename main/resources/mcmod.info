@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sylvepigfinder",
+  "name": "Sylve Pig Finder",
+  "description": "A mod that helps finding the shiny pigs in hypixel skyblock easier",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Sylvezar"],
+  "credits": "DSM for the origional function for the tracer (I modified it a little but most of the work was theirs for the graphics)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
